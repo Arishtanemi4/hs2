@@ -11,5 +11,5 @@ if __name__ == "__main__":
     print("  HS2 Intelligence Dashboard")
     print("  Monte Carlo · Scenario Analysis · Narrative Engine")
     print("="*60)
-    print("\n  → Open http://127.0.0.1:8050 in your browser\n")
-    app.run(debug=True, host="127.0.0.1", port=8050)
+    print("\n  → Open http://0.0.0.0:8050 in your browser\n")
+    app.run(debug=True, host="0.0.0.0", port=8050)
