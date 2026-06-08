@@ -1,0 +1,11 @@
+name: 'hs2'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dash
+  - plotly
+  - dash-bootstrap-components
+  - numpy
+  - scipy
+  - pandas
